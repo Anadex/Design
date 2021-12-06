@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="label_1">Поставь галочку</string>
+    <string name="label_2">ДА</string>
+    <string name="label_3">НЕТ</string>
+    <string name="text_button">Нажми меня</string>
+    <string name="action_1">да</string>
+    <string name="action_2">нет</string>
+    <string name="title">На картинке изображены лилии?</string>
+    <string name="secondary_text">Вам нужно указать правильный ответ</string>
+    <string name="supporting_text">Для этого нажмите на кнопку ниже</string>
+    <string name="content_description_media">Название картинки</string>
+    <string name="hello">Привет! тут какой-то текст.</string>
+
+</resources>
